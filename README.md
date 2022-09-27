@@ -1,6 +1,6 @@
 # Link
 
-https://mije-interactive-card-detail.netlify.app/card-details
+https://mije-interactive-card-detail.netlify.app
 
 # Getting Started with Create React App
 
